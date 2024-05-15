@@ -4,7 +4,7 @@ This SCSS utility provides a structured way to manage and apply consistent typog
 
 ## Features
 
-- **Predefined Font Styles and Weights**:  Includes common typographic settings for **'font-style'** and **'font -weight'** CSS properties.
+- **Predefined Font Styles and Weights**:  Includes common typographic settings for **'font-style'** and **'font-weight'** CSS properties.
 - **Responsive Breakpoints**: Supports multiple devices with predefined breakpoints.
 - **Dynamic Style Application**: Utilizes SCSS maps and mixins for easy application and maintenance of typographic styles.
 
